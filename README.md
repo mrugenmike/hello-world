@@ -11,7 +11,7 @@ gradle build
 gradle run
 ```
 
-Then point your browser to the following url
+Then point your browser to the following url to get similar output
 
 http://localhost:8080
 
